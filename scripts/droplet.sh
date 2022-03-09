@@ -3,7 +3,8 @@
 # Shell commands to quick setup on droplet
 
 echo "Updating Packages"
-sudo apt update && sudo apt upgrade -y
+sudo apt update
+sudo apt upgrade -y
 echo "................................"
 
 echo "Installing nvm"
