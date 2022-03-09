@@ -62,6 +62,8 @@ echo "................................"
 
 echo "Starting Cezerin"
 pm2 start process.json
+source ~/.bashrc # Restarting bash for nvm
+pm2 status
 echo "................................"
 
 echo "Thank you for using Cezerin"
