@@ -30,7 +30,7 @@ yarn global add pm2
 echo "................................"
 
 echo "Installing nginx"
-sudo apt install nginx
+sudo apt install nginx -y
 echo "................................"
 
 echo "Cloning Cezerin"
