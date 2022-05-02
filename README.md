@@ -1,4 +1,4 @@
- # Cezerin is React and Node.js based eCommerce platform. React Shopping Cart.
+# Cezerin is React and Node.js based eCommerce platform. React Shopping Cart.
 
 Cezerin - Ecommerce Progressive Web Apps. Complete Solution.
 
