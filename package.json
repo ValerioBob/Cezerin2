@@ -118,7 +118,7 @@
     "@typescript-eslint/parser": "^5.20.0",
     "babel-loader": "^8.2.4",
     "clean-webpack-plugin": "^4.0.0",
-    "concurrently": "^7.1.0",
+    "concurrently": "^7.3.0",
     "core-js": "^3.22.0",
     "css-loader": "^1.0.0",
     "cssnano": "^4.1.0",
